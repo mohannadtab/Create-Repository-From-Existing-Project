@@ -1,4 +1,7 @@
 h1 {
-  color: red;
-  background: blue;
+  display: flex;
+  background-color: violet;
+  justify-content: center;
+  font-family: "DynaPuff", cursive;
+  color: brown;
 }
